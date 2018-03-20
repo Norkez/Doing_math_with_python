@@ -1,2 +1,3 @@
 ﻿# Doing_math_with_python
- practice "DOING MATH WITH PYTHON" by Amit Saha
+I'm studying "DOING MATH WITH PYTHON" by Amit Saha.
+These are the result of my practice.
